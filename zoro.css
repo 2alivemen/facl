@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+.srh{
+    position: relative;
+    top: 230px;
+    right: 320px;
+
+    
+}
+.he{
+    height: 3440px;
+}
+.stu{
+    position: sticky;
+    top: 10px;
+}
+@tailwind utilities;
